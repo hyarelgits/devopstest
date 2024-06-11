@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins page1 - 1</h2>
+<h2>kube new  page1 - 1</h2>
 </body>
 </html>
